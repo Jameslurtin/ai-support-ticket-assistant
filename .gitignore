@@ -1,0 +1,16 @@
+# Python environment
+backend/.venv/
+
+# Secrets
+backend/.env
+
+# Python generated files
+backend/__pycache__/
+*.pyc
+
+# Local database
+backend/*.db
+
+# React
+frontend/node_modules/
+frontend/dist/
